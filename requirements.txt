@@ -2,3 +2,4 @@ numpy==1.25.0
 
 pandas
 matplotlib
+seaborn
